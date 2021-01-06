@@ -1,0 +1,10 @@
+C:\ReadFromJson\DataLibrary\bin\Debug\DataLibrary.dll
+C:\ReadFromJson\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\ReadFromJson\DataLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\ReadFromJson\DataLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\ReadFromJson\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\ReadFromJson\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\ReadFromJson\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\ReadFromJson\DataLibrary\obj\Debug\DataLibrary.dll
+C:\ReadFromJson\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\ReadFromJson\DataLibrary\bin\Debug\data.json

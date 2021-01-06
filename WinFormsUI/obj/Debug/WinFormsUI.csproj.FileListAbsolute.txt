@@ -1,0 +1,16 @@
+C:\ReadFromJson\WinFormsUI\bin\Debug\WinFormsUI.exe.config
+C:\ReadFromJson\WinFormsUI\bin\Debug\WinFormsUI.exe
+C:\ReadFromJson\WinFormsUI\bin\Debug\WinFormsUI.pdb
+C:\ReadFromJson\WinFormsUI\bin\Debug\DataLibrary.dll
+C:\ReadFromJson\WinFormsUI\bin\Debug\Newtonsoft.Json.dll
+C:\ReadFromJson\WinFormsUI\bin\Debug\DataLibrary.pdb
+C:\ReadFromJson\WinFormsUI\bin\Debug\Newtonsoft.Json.xml
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.csprojAssemblyReference.cache
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.Form1.resources
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.Properties.Resources.resources
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.cache
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.csproj.CopyComplete
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.exe
+C:\ReadFromJson\WinFormsUI\obj\Debug\WinFormsUI.pdb
+C:\ReadFromJson\WinFormsUI\bin\Debug\data.json
